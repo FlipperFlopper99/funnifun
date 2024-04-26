@@ -35,11 +35,4 @@ For zip ones (Ones with the .zip file ending)
 
 3. Play it
 
-# Me and my contributor's involvement with these:
-
-We only made some of these, and we are not responsible for any of them. By using these, you agree to those terms. If you have a reasonable objection to something being on this repo, tell me and I'll remove it immediately.
-
-# Other
-If you have any issues or ideas, please tell me in discussions (https://github.com/dragon731012/-WORKING-bookmarklets-and-games/discussions/2).
-
-Please enter my code 8B6M1B on fetch and get some fetch coins! https://referral.fetch.com/vvv3/referraltext?code=8B6M1B
+btw this isnt mine i forked it hehe
